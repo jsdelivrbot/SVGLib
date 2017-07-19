@@ -2,6 +2,7 @@ import Foundation
 /**
  * Interface for SVGElement
  */
-protocol ISVGElement {
+typealias ISVGElement = SVGElementKind
+protocol SVGElementKind {
     var id:String {get set}
 }
