@@ -2,6 +2,7 @@ import Foundation
 /**
  * Interface for the SVGPolyLine class
  */
-protocol ISVGPolyLine {
+typealias ISVGPolyLine = SVGPolyLineKind/*Legacy support*/
+protocol SVGPolyLineKind {
     var points:[CGPoint] {get set}
 }
