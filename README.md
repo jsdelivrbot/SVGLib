@@ -1,6 +1,6 @@
 # SVGLib
 
-<img width="100" alt="img" src="https://rawgit.com/stylekit/img/master/SvgLib.svg">
+<img width="100" alt="img" src="https://cdn.jsdelivr.net/gh/stylekit/img/SvgLib.svg">
 
 - Reads and writes svg syntax 
 
